@@ -6,10 +6,18 @@
   </url><url>
     <loc>https://54L1M.io/</loc>
   </url><url>
+    <loc>https://54L1M.io/archives/</loc>
+  </url><url>
+    <loc>https://54L1M.io/categories/cat/</loc>
+  </url><url>
     <loc>https://54L1M.io/categories/</loc>
   </url><url>
     <loc>https://54L1M.io/posts/</loc>
   </url><url>
+    <loc>https://54L1M.io/search/</loc>
+  </url><url>
     <loc>https://54L1M.io/tags/</loc>
+  </url><url>
+    <loc>https://54L1M.io/tags/test/</loc>
   </url>
 </urlset>
