@@ -5,6 +5,9 @@
     <loc>https://54L1M.io/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://54L1M.io/categories/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://54L1M.io/tags/central-spin-systems/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/posts/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/categories/projects/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/tags/python/</loc>
@@ -33,8 +39,6 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/archives/</loc>
-  </url><url>
-    <loc>https://54L1M.io/categories/</loc>
   </url><url>
     <loc>https://54L1M.io/search/</loc>
   </url>
