@@ -6,8 +6,15 @@
     <description>Recent content on 54L1M</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimating Photometric Redshifts of Galaxies and QSOs with Machine Learning</title>
+      <link>https://54L1M.io/posts/grb/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/posts/grb/</guid>
+      <description>A comprehensive look at leveraging machine learning techniques to estimate photometric redshifts using Sloan Digital Sky Survey (SDSS) data. This post explores methodologies, results, and implications for modern cosmology.</description>
+    </item>
     <item>
       <title>Quantum Decoherence of Central Spin Systems</title>
       <link>https://54L1M.io/posts/qdocss/</link>
