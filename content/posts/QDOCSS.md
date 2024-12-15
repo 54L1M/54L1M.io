@@ -8,7 +8,7 @@ tags:
   - chebyshev-expansion
   - qutip
   - python
-date: 2021-09-01
+date: 2024-09-01
 categories: Projects
 summary: A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.
 ---
