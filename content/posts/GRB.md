@@ -1,7 +1,7 @@
 ---
 title: "Estimating Photometric Redshifts of Galaxies and QSOs with Machine Learning"
 date: 2024-10-17
-author: "MohammadHossein 'Salim' SalimiSiboni"
+author: Salim
 tags: ["Machine-Learning", "Astrophysics", "Redshifts", "Random-Forest", "Decision-Tree", "python"]
 categories: Projects
 summary: "A comprehensive look at leveraging machine learning techniques to estimate photometric redshifts using Sloan Digital Sky Survey (SDSS) data. This post explores methodologies, results, and implications for modern cosmology."
