@@ -4,7 +4,7 @@ import shutil
 
 # Paths
 posts_dir = "/Users/54l1m/Documents/54L1M.io/content/posts/"
-attachments_dir = "/Users/54l1m/Documents/TheGreatLibrary/Attachments"
+attachments_dir = "/Users/54l1m/Documents/TheGreatLibrary/98-Attachments/"
 static_images_dir = "/Users/54l1m/Documents/54L1M.io/static/images/"
 
 # Step 1: Process each markdown file in the posts directory

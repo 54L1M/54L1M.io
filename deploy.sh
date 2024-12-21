@@ -6,7 +6,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
-sourcePath="/Users/54l1m/Documents/TheGreatLibrary/posts/"
+sourcePath="/Users/54l1m/Documents/TheGreatLibrary/01-Posts/"
 destinationPath="/Users/54l1m/Documents/54L1M.io/content/posts/"
 
 # Set GitHub Repo
