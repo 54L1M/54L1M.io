@@ -4,10 +4,52 @@
     <title>Tags on 54L1M</title>
     <link>https://54L1M.io/tags/</link>
     <description>Recent content in Tags on 54L1M</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration</title>
+      <link>https://54L1M.io/tags/configuration/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev-Tools</title>
+      <link>https://54L1M.io/tags/dev-tools/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/dev-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>https://54L1M.io/tags/macos/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nix</title>
+      <link>https://54L1M.io/tags/nix/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/nix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nix-Darwin</title>
+      <link>https://54L1M.io/tags/nix-darwin/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/nix-darwin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unstable-Branch</title>
+      <link>https://54L1M.io/tags/unstable-branch/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/unstable-branch/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Astrophysics</title>
       <link>https://54L1M.io/tags/astrophysics/</link>
