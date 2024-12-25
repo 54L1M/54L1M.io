@@ -21,7 +21,7 @@ This is where **Nix** and **nix-darwin** come in. These tools allow you to manag
 
   
 
-**P.S.** You can find my complete configuration on [GitHub](hhttps://github.com/54L1M/shenfiles/tree/master/nix). Feel free to explore and use it!
+**P.S.** You can find my complete configuration on [GitHub](https://github.com/54L1M/shenfiles/tree/master/nix). Feel free to explore and use it!
 
   
 
@@ -321,7 +321,7 @@ Incorporating **Nix** and **nix-darwin** into my workflow has been transformativ
 
   
 
-If you’re a macOS user looking for a powerful alternative to traditional package managers, I highly recommend giving Nix and nix-darwin a try. For more details, feel free to check out my full configuration on [GitHub](hhttps://github.com/54L1M/shenfiles/tree/master/nix).
+If you’re a macOS user looking for a powerful alternative to traditional package managers, I highly recommend giving Nix and nix-darwin a try. For more details, feel free to check out my full configuration on [GitHub](https://github.com/54L1M/shenfiles/tree/master/nix).
 
   
 
