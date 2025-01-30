@@ -3,10 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://54L1M.io/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/categories/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/cheatsheet/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/categories/guides/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/neovim/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/posts/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/productivity/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/text-editors/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/tags/vim/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://54L1M.io/posts/vim-motions/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/categories/config/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
@@ -24,12 +51,6 @@
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/tags/nix-darwin/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://54L1M.io/posts/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://54L1M.io/tags/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://54L1M.io/tags/unstable-branch/</loc>
