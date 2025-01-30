@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 54L1M</title>
     <link>https://54L1M.io/tags/</link>
     <description>Recent content in Tags on 54L1M</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheatsheet</title>
+      <link>https://54L1M.io/tags/cheatsheet/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neovim</title>
+      <link>https://54L1M.io/tags/neovim/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/neovim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://54L1M.io/tags/productivity/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-Editors</title>
+      <link>https://54L1M.io/tags/text-editors/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/text-editors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>https://54L1M.io/tags/vim/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/vim/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Configuration</title>
       <link>https://54L1M.io/tags/configuration/</link>

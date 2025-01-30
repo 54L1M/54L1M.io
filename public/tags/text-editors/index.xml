@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 54L1M</title>
-    <link>https://54L1M.io/posts/</link>
-    <description>Recent content in Posts on 54L1M</description>
+    <title>Text-Editors on 54L1M</title>
+    <link>https://54L1M.io/tags/text-editors/</link>
+    <description>Recent content in Text-Editors on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://54L1M.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://54L1M.io/tags/text-editors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
       <link>https://54L1M.io/posts/vim-motions/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://54L1M.io/posts/vim-motions/</guid>
       <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post is primarily for my own use, containing Vim commands that I frequently use or am trying to learn and remember. It focuses on essential motions and navigation techniques to improve efficiency.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;  This post changes and updates frequently.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-basics&#34;&gt;🏠 Basics&lt;/h2&gt;&#xA;&lt;p&gt;Basic commands to get started with Vim.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;i&lt;/code&gt; → Insert mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;ESC&lt;/code&gt; → Exit insert mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:w&lt;/code&gt; → Save file&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:q&lt;/code&gt; → Quit&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:wq&lt;/code&gt; or &lt;code&gt;ZZ&lt;/code&gt; → Save and quit&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:q!&lt;/code&gt; → Quit without saving&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-moving-around&#34;&gt;🔄 Moving Around&lt;/h2&gt;&#xA;&lt;p&gt;Essential motions for navigating within a file efficiently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Nix and nix-darwin Are Great for macOS</title>
-      <link>https://54L1M.io/posts/nix/</link>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/nix/</guid>
-      <description>Learn why Nix and nix-darwin are powerful tools for macOS development and how I use them to streamline my workflow.</description>
-    </item>
-    <item>
-      <title>Estimating Photometric Redshifts of Galaxies and QSOs with Machine Learning</title>
-      <link>https://54L1M.io/posts/grb/</link>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/grb/</guid>
-      <description>A comprehensive look at leveraging machine learning techniques to estimate photometric redshifts using Sloan Digital Sky Survey (SDSS) data. This post explores methodologies, results, and implications for modern cosmology.</description>
-    </item>
-    <item>
-      <title>Quantum Decoherence of Central Spin Systems</title>
-      <link>https://54L1M.io/posts/qdocss/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/qdocss/</guid>
-      <description>A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.</description>
     </item>
   </channel>
 </rss>
