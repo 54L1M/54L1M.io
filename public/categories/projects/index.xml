@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on 54L1M</title>
-    <link>https://54L1M.io/categories/projects/</link>
+    <link>http://localhost:1313/categories/projects/</link>
     <description>Recent content in Projects on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://54L1M.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating Photometric Redshifts of Galaxies and QSOs with Machine Learning</title>
-      <link>https://54L1M.io/posts/grb/</link>
+      <link>http://localhost:1313/posts/grb/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/grb/</guid>
+      <guid>http://localhost:1313/posts/grb/</guid>
       <description>A comprehensive look at leveraging machine learning techniques to estimate photometric redshifts using Sloan Digital Sky Survey (SDSS) data. This post explores methodologies, results, and implications for modern cosmology.</description>
     </item>
     <item>
       <title>Quantum Decoherence of Central Spin Systems</title>
-      <link>https://54L1M.io/posts/qdocss/</link>
+      <link>http://localhost:1313/posts/qdocss/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/qdocss/</guid>
+      <guid>http://localhost:1313/posts/qdocss/</guid>
       <description>A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.</description>
     </item>
   </channel>

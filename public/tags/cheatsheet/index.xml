@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheatsheet on 54L1M</title>
-    <link>https://54L1M.io/tags/cheatsheet/</link>
+    <link>http://localhost:1313/tags/cheatsheet/</link>
     <description>Recent content in Cheatsheet on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://54L1M.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
-      <link>https://54L1M.io/posts/vim/</link>
+      <link>http://localhost:1313/posts/vim/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/vim/</guid>
+      <guid>http://localhost:1313/posts/vim/</guid>
       <description>A quick reference guide for navigating and using Vim effectively.</description>
     </item>
   </channel>

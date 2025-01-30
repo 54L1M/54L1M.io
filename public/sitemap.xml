@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://54L1M.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/cheatsheet/</loc>
+    <loc>http://localhost:1313/tags/cheatsheet/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/categories/guides/</loc>
+    <loc>http://localhost:1313/categories/guides/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/neovim/</loc>
+    <loc>http://localhost:1313/tags/neovim/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/productivity/</loc>
+    <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/text-editors/</loc>
+    <loc>http://localhost:1313/tags/text-editors/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/vim/</loc>
+    <loc>http://localhost:1313/tags/vim/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/posts/vim/</loc>
+    <loc>http://localhost:1313/posts/vim/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/categories/config/</loc>
+    <loc>http://localhost:1313/categories/config/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/configuration/</loc>
+    <loc>http://localhost:1313/tags/configuration/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/dev-tools/</loc>
+    <loc>http://localhost:1313/tags/dev-tools/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/macos/</loc>
+    <loc>http://localhost:1313/tags/macos/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/nix/</loc>
+    <loc>http://localhost:1313/tags/nix/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/nix-darwin/</loc>
+    <loc>http://localhost:1313/tags/nix-darwin/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/unstable-branch/</loc>
+    <loc>http://localhost:1313/tags/unstable-branch/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/posts/nix/</loc>
+    <loc>http://localhost:1313/posts/nix/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/astrophysics/</loc>
+    <loc>http://localhost:1313/tags/astrophysics/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/decision-tree/</loc>
+    <loc>http://localhost:1313/tags/decision-tree/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/posts/grb/</loc>
+    <loc>http://localhost:1313/posts/grb/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/categories/projects/</loc>
+    <loc>http://localhost:1313/categories/projects/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/random-forest/</loc>
+    <loc>http://localhost:1313/tags/random-forest/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/redshifts/</loc>
+    <loc>http://localhost:1313/tags/redshifts/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/central-spin-systems/</loc>
+    <loc>http://localhost:1313/tags/central-spin-systems/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/chebyshev-expansion/</loc>
+    <loc>http://localhost:1313/tags/chebyshev-expansion/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/physics/</loc>
+    <loc>http://localhost:1313/tags/physics/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/posts/qdocss/</loc>
+    <loc>http://localhost:1313/posts/qdocss/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/quantum-decoherence/</loc>
+    <loc>http://localhost:1313/tags/quantum-decoherence/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/tags/qutip/</loc>
+    <loc>http://localhost:1313/tags/qutip/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://54L1M.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://54L1M.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
