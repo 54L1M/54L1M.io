@@ -2,7 +2,7 @@
 title: Vim Navigation and Useful Commands Cheatsheet
 date: 2025-01-30
 author: Salim
-description: A quick reference guide for navigating and using Vim effectively.
+summary: A quick reference guide for navigating and using Vim effectively.
 tags:
   - vim
   - neovim
