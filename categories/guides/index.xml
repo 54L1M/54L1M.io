@@ -10,9 +10,9 @@
     <atom:link href="https://54L1M.io/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
-      <link>https://54L1M.io/posts/vim-motions/</link>
+      <link>https://54L1M.io/posts/vim/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/vim-motions/</guid>
+      <guid>https://54L1M.io/posts/vim/</guid>
       <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post is primarily for my own use, containing Vim commands that I frequently use or am trying to learn and remember. It focuses on essential motions and navigation techniques to improve efficiency.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;  This post changes and updates frequently.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-basics&#34;&gt;🏠 Basics&lt;/h2&gt;&#xA;&lt;p&gt;Basic commands to get started with Vim.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;i&lt;/code&gt; → Insert mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;ESC&lt;/code&gt; → Exit insert mode&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:w&lt;/code&gt; → Save file&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:q&lt;/code&gt; → Quit&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:wq&lt;/code&gt; or &lt;code&gt;ZZ&lt;/code&gt; → Save and quit&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;:q!&lt;/code&gt; → Quit without saving&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-moving-around&#34;&gt;🔄 Moving Around&lt;/h2&gt;&#xA;&lt;p&gt;Essential motions for navigating within a file efficiently.&lt;/p&gt;</description>
     </item>
   </channel>
