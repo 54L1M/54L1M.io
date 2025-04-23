@@ -9,6 +9,7 @@ tags:
 categories: Config
 cover:
   alt: Nixos logo
+  hidden: false
   image: gruvbox-nix.png
   relative: true
 date: 2024-12-24
