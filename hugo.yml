@@ -5,7 +5,7 @@ theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 googleAnalytics: UA-123-45
@@ -18,7 +18,17 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 54L1M
   description: ""
-  keywords: [Blog, Portfolio, PaperMod, 54L1M, Salim, M.H. Salim SalimiSiboni, tech, programming]
+  keywords:
+    [
+      Blog,
+      Portfolio,
+      PaperMod,
+      54L1M,
+      Salim,
+      M.H. Salim SalimiSiboni,
+      tech,
+      programming,
+    ]
   author: Salim
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -41,7 +51,7 @@ params:
   tocopen: false
   disableShare: false
   hideFooter: false
-  shareButtons: ["twitter","linkedin","telegram","whatsapp"]
+  shareButtons: ["twitter", "linkedin", "telegram", "whatsapp"]
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -53,28 +63,27 @@ params:
 
   label:
     text: "54L1M"
-    icon: 
+    icon:
     iconHeight: 35
 
   # home-info mode
   homeInfoParams:
-   Title: "54L1M"
-   Content: >
-     Welcome to Salim’s Corner,
-     
-    
-     I’m Salim—a passionate software engineer and data enthusiast.
-     
+    Title: "54L1M"
+    Content: >
+      Welcome to Salim’s Corner,
 
-     Here, I share insights from my journey through the worlds of programming,
-     data systems, cutting-edge technologies, and physics.
- 
+
+      I’m Salim—a passionate software engineer and data enthusiast.
+
+
+      Here, I share insights from my journey through the worlds of programming,
+      data systems, cutting-edge technologies, and physics.
+
   socialIcons:
-   - name: github
-     url: "https://github.com/54l1m"
-   - name: linkedin
-     url: "https://linkedin.com/in/mhsalimi"
-
+    - name: github
+      url: "https://github.com/54l1m"
+    - name: linkedin
+      url: "https://linkedin.com/in/mhsalimi"
 
   analytics:
     google:
@@ -139,4 +148,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
