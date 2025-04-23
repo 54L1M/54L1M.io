@@ -6,14 +6,14 @@
     <description>Recent content in Guides on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
       <link>https://54L1M.io/posts/vim/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://54L1M.io/posts/vim/</guid>
-      <description>Learn why Nix and nix-darwin are powerful tools for macOS development and how I use them to streamline my workflow.</description>
+      <description>A quick reference guide for navigating and using Vim effectively.</description>
     </item>
   </channel>
 </rss>

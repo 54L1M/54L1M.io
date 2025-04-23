@@ -6,8 +6,15 @@
     <description>Recent content in Categories on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guides</title>
+      <link>https://54L1M.io/categories/guides/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/categories/guides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Config</title>
       <link>https://54L1M.io/categories/config/</link>
@@ -20,13 +27,6 @@
       <link>https://54L1M.io/categories/projects/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://54L1M.io/categories/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guides</title>
-      <link>https://54L1M.io/categories/guides/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/categories/guides/</guid>
       <description></description>
     </item>
   </channel>
