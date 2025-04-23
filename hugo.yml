@@ -70,14 +70,9 @@ params:
   homeInfoParams:
     Title: "54L1M"
     Content: >
-      Welcome to Salim’s Corner,
+      My thoughts, ramblings, and digital explorations.
 
-
-      I’m Salim—a passionate software engineer and data enthusiast.
-
-
-      Here, I share insights from my journey through the worlds of programming,
-      data systems, cutting-edge technologies, and physics.
+      A collection of notes on software, systems, and the occasional "aha!" moment.
 
   socialIcons:
     - name: github
@@ -121,22 +116,26 @@ outputs:
     - JSON
 menu:
   main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
     - identifier: Categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: Tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: Search
       name: Search
       url: /search/
-      weight: 30
+      weight: 40
     - identifier: Archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
