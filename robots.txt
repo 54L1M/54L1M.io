@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://54L1M.io/sitemap.xml
