@@ -36,12 +36,5 @@
       <guid>https://54L1M.io/posts/qdocss/</guid>
       <description>A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://54L1M.io/posts/testpost/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/testpost/</guid>
-      <description>&lt;p&gt;this is a test Post to check the flow.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
