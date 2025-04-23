@@ -21,7 +21,7 @@ As a macOS user and developer, finding a robust, flexible, and reproducible way 
 
 This is where **Nix** and **nix-darwin** come in. These tools allow you to manage macOS system configurations and software installations declaratively and reproducibly, ensuring consistency across multiple devices or even between different points in time.
 
-**P.S.** You can find my complete configuration on [GitHub](https://github.com/54L1M/shenfiles/tree/master/nix). Feel free to explore and use it!
+**P.S.** You can find my complete configuration on [GitHub](https://github.com/54L1M/shenfiles/tree/master/nix). Feel free to explore and use it!!
 
 ---
 
