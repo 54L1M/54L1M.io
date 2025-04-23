@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neovim on 54L1M</title>
-    <link>http://localhost:1313/tags/neovim/</link>
+    <link>https://54L1M.io/tags/neovim/</link>
     <description>Recent content in Neovim on 54L1M</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://54L1M.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
-      <link>http://localhost:1313/posts/vim/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vim/</guid>
-      <description>A quick reference guide for navigating and using Vim effectively.</description>
+      <link>https://54L1M.io/posts/vim/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/posts/vim/</guid>
+      <description>Learn why Nix and nix-darwin are powerful tools for macOS development and how I use them to streamline my workflow.</description>
     </item>
   </channel>
 </rss>
