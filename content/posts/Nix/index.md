@@ -11,7 +11,7 @@ cover:
   alt: Nixos logo
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
   image: gruvbox-nix.png
   relative: true
   responsiveImages: true
