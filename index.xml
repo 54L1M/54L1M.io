@@ -4,10 +4,17 @@
     <title>54L1M</title>
     <link>https://54L1M.io/</link>
     <description>Recent content on 54L1M</description>
-    <generator>Hugo -- 0.146.6</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi</title>
+      <link>https://54L1M.io/posts/p4ndalab/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/posts/p4ndalab/</guid>
+      <description>Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.</description>
+    </item>
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
       <link>https://54L1M.io/posts/vim/</link>

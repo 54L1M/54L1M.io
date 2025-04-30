@@ -4,10 +4,52 @@
     <title>Tags on 54L1M</title>
     <link>https://54L1M.io/tags/</link>
     <description>Recent content in Tags on 54L1M</description>
-    <generator>Hugo -- 0.146.6</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab</title>
+      <link>https://54L1M.io/tags/homelab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K3s</title>
+      <link>https://54L1M.io/tags/k3s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/k3s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K8s</title>
+      <link>https://54L1M.io/tags/k8s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/k8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://54L1M.io/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>P4ndalab</title>
+      <link>https://54L1M.io/tags/p4ndalab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/p4ndalab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry-Pi</title>
+      <link>https://54L1M.io/tags/raspberry-pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cheatsheet</title>
       <link>https://54L1M.io/tags/cheatsheet/</link>
