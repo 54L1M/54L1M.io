@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry-Pi on 54L1M</title>
+    <link>https://54L1M.io/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry-Pi on 54L1M</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://54L1M.io/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi</title>
+      <link>https://54L1M.io/posts/p4ndalab/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/posts/p4ndalab/</guid>
+      <description>Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.</description>
+    </item>
+  </channel>
+</rss>
