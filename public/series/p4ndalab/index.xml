@@ -15,5 +15,12 @@
       <guid>https://54L1M.io/posts/p4ndalab/</guid>
       <description>Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.</description>
     </item>
+    <item>
+      <title>Quantum Decoherence of Central Spin Systems</title>
+      <link>https://54L1M.io/posts/qdocss/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/posts/qdocss/</guid>
+      <description>A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.</description>
+    </item>
   </channel>
 </rss>
