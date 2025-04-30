@@ -11,7 +11,10 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
-
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 54L1M
