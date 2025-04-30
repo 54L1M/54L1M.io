@@ -10,9 +10,9 @@
     <atom:link href="https://54L1M.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi</title>
-      <link>https://54L1M.io/posts/p4ndalab/</link>
+      <link>https://54L1M.io/posts/p4ndalab/part-1-introduction/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/p4ndalab/</guid>
+      <guid>https://54L1M.io/posts/p4ndalab/part-1-introduction/</guid>
       <description>Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.</description>
     </item>
     <item>
