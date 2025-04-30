@@ -11,8 +11,6 @@ tags:
 date: 2024-09-01
 categories: Projects
 summary: A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.
-series:
-  - P4ndaLab
 ---
 # Exploring Quantum Decoherence in Central Spin Systems
 ---

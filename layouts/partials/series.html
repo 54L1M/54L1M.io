@@ -1,0 +1,16 @@
+{{ if .Params.series }} {{ $series := index .Params.series 0 }} {{ $seriesPath
+:= printf "series/%s" (urlize $series) }} {{ with site.GetPage $seriesPath }}
+<div class="post-series">
+  <h4>{{ $series }} Series</h4>
+  <ul>
+    {{ range .Pages.ByDate }}
+    <li>
+      {{ if eq .Permalink $.Permalink }}
+      <strong>{{ .Title }}</strong> (current) {{ else }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }} {{ end }}

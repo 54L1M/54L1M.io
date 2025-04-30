@@ -1,0 +1,21 @@
+.post-series {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
+}
+
+.post-series h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.post-series ul {
+  margin: 0.5rem 0 0 0;
+  padding-left: 1.5rem;
+}
+
+.post-series li {
+  margin-bottom: 0.5rem;
+}
