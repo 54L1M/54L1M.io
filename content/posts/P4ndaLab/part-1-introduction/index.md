@@ -13,7 +13,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
-  image: k8s-pi.png
+  image: k8s-pi1.png
   relative: true
   responsiveImages: true
 date: 2025-05-01
