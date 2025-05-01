@@ -13,7 +13,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
-  image: k8s.jpg
+  image: k8s-pi.png
   relative: true
   responsiveImages: true
 date: 2025-05-01
@@ -104,4 +104,3 @@ Until next time, happy hacking!
 ---
 
 _Have questions or suggestions for the P4ndaLab project? Suggest your changes using the link at the top of the post under the title_
-
