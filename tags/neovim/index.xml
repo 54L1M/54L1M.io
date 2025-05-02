@@ -10,9 +10,9 @@
     <atom:link href="https://54L1M.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
-      <link>https://54L1M.io/posts/vim/</link>
+      <link>https://54L1M.io/2025/01/vim-navigation-and-useful-commands-cheatsheet/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/vim/</guid>
+      <guid>https://54L1M.io/2025/01/vim-navigation-and-useful-commands-cheatsheet/</guid>
       <description>A quick reference guide for navigating and using Vim effectively.</description>
     </item>
   </channel>

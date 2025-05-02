@@ -10,37 +10,37 @@
     <atom:link href="https://54L1M.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi</title>
-      <link>https://54L1M.io/posts/p4ndalab/part-1-introduction/</link>
+      <link>https://54L1M.io/2025/05/introducing-p4ndalab-my-kubernetes-homelab-journey-on-raspberry-pi/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/p4ndalab/part-1-introduction/</guid>
+      <guid>https://54L1M.io/2025/05/introducing-p4ndalab-my-kubernetes-homelab-journey-on-raspberry-pi/</guid>
       <description>Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.</description>
     </item>
     <item>
       <title>Vim Navigation and Useful Commands Cheatsheet</title>
-      <link>https://54L1M.io/posts/vim/</link>
+      <link>https://54L1M.io/2025/01/vim-navigation-and-useful-commands-cheatsheet/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/vim/</guid>
+      <guid>https://54L1M.io/2025/01/vim-navigation-and-useful-commands-cheatsheet/</guid>
       <description>A quick reference guide for navigating and using Vim effectively.</description>
     </item>
     <item>
       <title>Why Nix and nix-darwin Are Great for macOS</title>
-      <link>https://54L1M.io/posts/nix/</link>
+      <link>https://54L1M.io/2024/12/why-nix-and-nix-darwin-are-great-for-macos/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/nix/</guid>
+      <guid>https://54L1M.io/2024/12/why-nix-and-nix-darwin-are-great-for-macos/</guid>
       <description>Learn why Nix and nix-darwin are powerful tools for macOS development and how I use them to streamline my workflow.</description>
     </item>
     <item>
       <title>Estimating Photometric Redshifts of Galaxies and QSOs with Machine Learning</title>
-      <link>https://54L1M.io/posts/grb/</link>
+      <link>https://54L1M.io/2024/10/estimating-photometric-redshifts-of-galaxies-and-qsos-with-machine-learning/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/grb/</guid>
+      <guid>https://54L1M.io/2024/10/estimating-photometric-redshifts-of-galaxies-and-qsos-with-machine-learning/</guid>
       <description>A comprehensive look at leveraging machine learning techniques to estimate photometric redshifts using Sloan Digital Sky Survey (SDSS) data. This post explores methodologies, results, and implications for modern cosmology.</description>
     </item>
     <item>
       <title>Quantum Decoherence of Central Spin Systems</title>
-      <link>https://54L1M.io/posts/qdocss/</link>
+      <link>https://54L1M.io/2024/09/quantum-decoherence-of-central-spin-systems/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://54L1M.io/posts/qdocss/</guid>
+      <guid>https://54L1M.io/2024/09/quantum-decoherence-of-central-spin-systems/</guid>
       <description>A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.</description>
     </item>
   </channel>
