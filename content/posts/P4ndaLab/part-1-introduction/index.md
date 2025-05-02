@@ -7,7 +7,8 @@ tags:
   - p4ndalab
   - k8s
 author: Salim
-categories: Projects, Kubernetes
+categories:
+  - Projects
 cover:
   alt: Kubernetes logo
   hidden: false

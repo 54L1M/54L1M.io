@@ -20,7 +20,7 @@ permalinks:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 54L1M
-  description: ""
+  description: "Personal blog of Salim - Software development, Kubernetes, homelabs, and technical projects with a focus on hands-on learning"
   ShowCanonicalLink: true
   keywords:
     [
@@ -62,6 +62,8 @@ params:
   tocopen: false
   disableShare: false
   hideFooter: true
+  schema:
+    publisherType: "Person"
   twitter:
     card: "summary_large_image"
   shareButtons: ["twitter", "linkedin", "telegram", "whatsapp"]
