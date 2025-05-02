@@ -15,10 +15,13 @@ taxonomies:
   category: categories
   tag: tags
   series: series
+permalinks:
+  posts: /:year/:month/:slug/
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 54L1M
   description: ""
+  ShowCanonicalLink: true
   keywords:
     [
       Blog,
@@ -29,6 +32,13 @@ params:
       M.H. Salim SalimiSiboni,
       tech,
       programming,
+      raspberry pi,
+      kubernetes,
+      homelab,
+      physics,
+      docker,
+      golang,
+      python,
     ]
   author: Salim
   # author: ["Me", "You"] # multiple authors
@@ -52,6 +62,8 @@ params:
   tocopen: false
   disableShare: false
   hideFooter: true
+  twitter:
+    card: "summary_large_image"
   shareButtons: ["twitter", "linkedin", "telegram", "whatsapp"]
   assets:
     # disableHLJS: true # to disable highlight.js
