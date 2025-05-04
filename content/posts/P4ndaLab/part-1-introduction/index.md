@@ -23,9 +23,6 @@ series:
 summary: Introducing P4ndaLab, my journey building a Kubernetes homelab on a Raspberry Pi. This first post outlines my project goals, the budget-friendly approach with existing hardware, and the roadmap for implementing a complete K8s environment. Join me as I document both the theory and hands-on implementation in this educational series.
 title: "Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi"
 ---
-
-# Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi
-
 Hey there! Welcome to the first post of my P4ndaLab series. I'm excited to share my journey building a Kubernetes homelab on a Raspberry Pi. This project stems from my belief that the best way to learn is by doing - getting your hands dirty and building something real.
 
 ## What is P4ndaLab?
