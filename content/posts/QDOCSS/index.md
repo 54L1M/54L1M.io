@@ -12,9 +12,6 @@ date: 2024-09-01
 categories: Projects
 summary: A detailed exploration of quantum decoherence in central spin systems using the Chebyshev expansion method, validated against Qutip simulations.
 ---
-# Exploring Quantum Decoherence in Central Spin Systems
----
-
 ## Introduction
 
 Quantum coherence is a fundamental property that underpins technologies like quantum computing, cryptography, and advanced sensing. However, real-world quantum systems are never completely isolated; they interact with their surrounding environment, causing coherence to degrade over time—a process known as quantum decoherence. This presents a significant challenge for realizing reliable quantum technologies.
