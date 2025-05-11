@@ -1,6 +1,5 @@
 baseURL: "https://54L1M.io/"
 title: 54L1M
-pagination.paperSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -11,6 +10,9 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
+pagination:
+  disableAliases: false
+  pagerSize: 5
 taxonomies:
   category: categories
   tag: tags
@@ -79,7 +81,6 @@ params:
 
   label:
     text: "54L1M"
-    icon:
     iconHeight: 35
 
   # home-info mode
