@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://54L1M.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P4ndaLab: Understanding Kubernetes - Core Concepts and Architecture</title>
+      <link>https://54L1M.io/2025/05/p4ndalab-understanding-kubernetes-core-concepts-and-architecture/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://54L1M.io/2025/05/p4ndalab-understanding-kubernetes-core-concepts-and-architecture/</guid>
+      <description>Dive into the core concepts and architecture of Kubernetes as I explain what makes it the industry standard for container orchestration and why K3s is perfect for a Raspberry Pi homelab. This post breaks down the control plane components, worker nodes, networking principles, and fundamental Kubernetes objects, setting the foundation for our upcoming hands-on implementation.</description>
+    </item>
     <item>
       <title>Introducing P4ndaLab: My Kubernetes Homelab Journey on Raspberry Pi</title>
       <link>https://54L1M.io/2025/05/introducing-p4ndalab-my-kubernetes-homelab-journey-on-raspberry-pi/</link>
