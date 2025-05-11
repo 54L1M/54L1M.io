@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 54L1M
   description: "Personal blog of Salim - Software development, Kubernetes, homelabs, and technical projects with a focus on hands-on learning"
-  images: ["img/default-share-image.png"]
+  images: ["img/default-share-image-1.png"]
   ShowCanonicalLink: true
   keywords:
     [
