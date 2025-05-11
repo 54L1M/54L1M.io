@@ -51,11 +51,12 @@ params:
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowPageNums: true
+  ShowPostNavLinks: true
   UseHugoToc: true
   disableSpecial1stPost: true
   disableScrollToTop: false
